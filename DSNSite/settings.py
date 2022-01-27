@@ -26,7 +26,11 @@ SECRET_KEY = 'django-insecure-!(4wn8jxsjc66=zkg934a9fmf*xmvf7@oj++uhp0=xqn1(&xsa
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD:DSNSite/settings.py
 ALLOWED_HOSTS = ['kelvin-mlproject.herokuapp.com', '127.0.0.1']
+=======
+ALLOWED_HOSTS = ['https://mentor-mentee-app.herokuapp.com/']
+>>>>>>> ed80e3a12cd743e3131490d82af0a22ced17a6d3:settings.py
 
 
 # Application definition
